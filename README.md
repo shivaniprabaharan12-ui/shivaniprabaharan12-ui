@@ -20,12 +20,12 @@
 
 | Category | Skills |
 |---|---|
-| Programming | C Programming |
+| Programming | C Programming,Python,SQL |
 | Computer Science | Programming Fundamentals, Algorithms |
 | Problem Solving | Arrays, Loops, Conditionals |
 | AI & ML | AI/ML Fundamentals, Deep Learning Concepts |
 | Tools | Git, GitHub |
-| Practice | LeetCode |
+| Practice | Skillrack |
 
 ---
 
